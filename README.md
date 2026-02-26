@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+
 <h1>Hi 👋 I'm Mostafa Abdelwahab</h1>
 <h3>Machine Learning | Deep Learning | Computer Vision Engineer</h3>
 
@@ -55,10 +59,9 @@ Machine Learning, Deep Learning, and Computer Vision.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### 🏗️ Programming Concepts
+### 🏗 Programming Concepts
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- Problem Solving
 - Clean Code Principles
 
 ---
