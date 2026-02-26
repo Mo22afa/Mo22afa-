@@ -9,7 +9,7 @@
 
 <p>
 AI Engineer specialized in building intelligent systems using 
-Machine Learning, Deep Learning, and Computer Vision.
+Machine Learning, Deep Learning, and Computer Vision.  
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Mo22afa&style=flat&color=orange&label=PROFILE+VIEWS"/>
