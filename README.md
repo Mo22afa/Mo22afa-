@@ -1,69 +1,65 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
-<h2>Hi 👋 I'm Mostafa Abdelwahab</h2>
-<h3>AI Engineer | Computer Vision Specialist</h3>
+<h2>Hi, I'm Mostafa Abdelwahab 👋</h2>
+<h3>Machine Learning & Deep Learning Engineer</h3>
 
 <p>
-I design and build intelligent Computer Vision systems 
-using Machine Learning & Deep Learning.
+I build intelligent systems using Machine Learning & Deep Learning  
+and turn data into real-world AI solutions.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS" />
+
+<br/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mostafaabdalwhab774@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👁️ Computer Vision Expertise
-- 🔎 **Object Detection** (YOLO, Faster R-CNN)
-- 🧠 **Image Classification**
-- 🎯 **Segmentation** (U-Net, Mask R-CNN)
-- 🎥 **Video Processing & Tracking**
-- 🧾 **OCR Systems**
-- 📊 Model Optimization & Deployment
+## 🚀 What I Do
+- **Machine Learning Models** (Classification • Regression • Clustering)
+- **Deep Learning** (ANN • CNN • RNN)
+- **Model Evaluation & Optimization**
+- **Data Preprocessing & Feature Engineering**
+- **Deployment using Flask / FastAPI**
+- **Building Simple Interfaces with HTML**
 
 ---
 
-## 🤖 Machine Learning & Deep Learning
-- Supervised & Unsupervised Learning
-- Neural Networks (ANN, CNN)
-- Model Evaluation (Accuracy, mAP, F1 Score)
-- Hyperparameter Tuning
-- Data Preprocessing & Feature Engineering
+## 🧰 Tech Stack
 
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-### 🧠 AI Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-### 🚀 Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🧪 Typical Computer Vision Pipeline
+## 🧪 Typical ML Pipeline
 
 ```python
-cv_pipeline = {
-  "Data": ["Collection", "Annotation", "Augmentation"],
-  "Training": ["CNN / YOLO / Custom Models"],
-  "Evaluation": ["mAP", "IoU", "Confusion Matrix"],
-  "Optimization": ["ONNX", "TensorRT"],
-  "Deployment": ["FastAPI", "Docker", "Edge Devices"]
+# data -> preprocess -> train -> evaluate -> deploy
+
+ml_pipeline = {
+  "data": ["Cleaning", "Preprocessing", "Feature Engineering"],
+  "train": ["ML Algorithms", "Neural Networks"],
+  "evaluate": ["Accuracy", "F1 Score", "Confusion Matrix"],
+  "deploy": ["Flask / FastAPI", "Docker"]
 }
